@@ -1,0 +1,46 @@
+{
+  "sourceBodyVertices": 498431,
+  "sourceHeadVertices": 749925,
+  "bodyRetainedVertices": 432038,
+  "headRetainedVertices": 244528,
+  "bones": [
+    "Root",
+    "Hips",
+    "Spine",
+    "Chest",
+    "Neck",
+    "Head",
+    "LeftUpperArm",
+    "LeftLowerArm",
+    "LeftHand",
+    "LeftUpperLeg",
+    "LeftLowerLeg",
+    "LeftFoot",
+    "RightUpperArm",
+    "RightLowerArm",
+    "RightHand",
+    "RightUpperLeg",
+    "RightLowerLeg",
+    "RightFoot"
+  ],
+  "rig": "new humanoid; source FBX files have no armature or clips",
+  "added": [
+    "neck junction",
+    "lower trousers",
+    "sneakers"
+  ],
+  "lods": {
+    "high": {
+      "bytes": 25436196,
+      "textures": 2048,
+      "triangles": 97112,
+      "sha256": "502d3d1ff16077adfa7d1e7cfa006a9b9a0f648e24760a162401a320b9c1ea40"
+    },
+    "low": {
+      "bytes": 8370296,
+      "textures": 1024,
+      "triangles": 42992,
+      "sha256": "a9e63e05e83155ed825be8cc6b2369e81b5a4e07e2faf0af2de40f2e922e7d31"
+    }
+  }
+}
